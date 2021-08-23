@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gawadeatul
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Spring Boot and Microservices
+- 🌱 Works on Spring Boot and Microservices
 
 
 <!---
