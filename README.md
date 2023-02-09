@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gawadeatul&repo=springboot-microservices)](https://github.com/gawadeatul/springboot-microservices)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawadeatul&layout=compact)](https://github.com/gawadeatul/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawadeatul&layout=compact)](https://github.com/gawadeatul/github-readme)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/gawadeatul/github-readme-stats)
 
