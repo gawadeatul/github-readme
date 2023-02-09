@@ -16,10 +16,15 @@
    src="https://github-readme-stats.vercel.app/api?username=gawadeatul&show_icons=true&theme=merko"
 />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gawadeatul&repo=springboot-microservices)](https://github.com/gawadeatul/springboot-microservices)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawadeatul&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gawadeatul&layout=compact)](https://github.com/gawadeatul/springboot-microservices)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/gawadeatul/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
 
 <!---
 gawadeatul/gawadeatul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
