@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @gawadeatul
-- 👀 I’m interested in DevOps
-- 🌱 Works on Spring Boot and Microservices
+## Hi Firends 👋
+
+- 🌱 I am working as a Backend Developer.
+- 🌱 Strong experties in Java, Spring Boot,and Microservices.
+- 👀 Intrested in learning in public.
+- 🏄‍ Learning how to contribute into open source.
 
 
 <!---
